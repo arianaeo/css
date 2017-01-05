@@ -17,6 +17,7 @@ p {
     padding: 30px
 }
 #boxywithhiddenoverflow {
+    overflow: hidden;
     height:33px;
     width: 70px;
     background-color: firebrick;
