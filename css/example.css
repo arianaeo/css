@@ -25,3 +25,13 @@ p {
     margin: 4px;
     padding: 20px
 }
+
+#boxywithscroll {
+    overflow: scroll;
+    height:33px;
+    width: 70px;
+    background-color: firebrick;
+    border: 3px;
+    margin: 4px;
+    padding: 20px
+}
