@@ -1,0 +1,18 @@
+h1 {
+    font-family: sans-serif;
+    color:coral;
+}
+
+p {
+    font-family: fantasy;
+    color:crimson;
+    background-color: darkred;
+}
+#boxy {
+    height: auto;
+    width:auto;
+    background-color: mediumpurple;
+    border: 3px solid black;
+    margin: 30px;
+    padding: 30px
+}
